@@ -1,0 +1,29 @@
+@media (max-width: 1350px) {
+  .header {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .header__content {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  .navbar {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1205px) {
+    .intro-content{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+  
+}
